@@ -1,0 +1,12 @@
+general.import = [
+    "~/.config/alacritty/catppuccin_themes/catppuccin-mocha.toml"
+]
+[env]
+TERM = "xterm-256color"
+
+[font]
+normal = { family = "Iosevka Custom", style = "medium extended" }
+bold = { family = "Iosevka Custom", style = "bold extended" }
+italic = { family = "Iosevka Custom", style = "medium extended italic" }
+bold_italic = { family = "Iosevka Custom", style = "bold extended italic" }
+size = 12.67
