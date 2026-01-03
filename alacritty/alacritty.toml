@@ -10,3 +10,6 @@ bold = { family = "Iosevka Custom", style = "bold extended" }
 italic = { family = "Iosevka Custom", style = "medium extended italic" }
 bold_italic = { family = "Iosevka Custom", style = "bold extended italic" }
 size = 12.67
+
+[terminal]
+shell = "zsh"
