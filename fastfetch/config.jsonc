@@ -3,6 +3,7 @@
     "logo": {
         "type": "file",
         "source": "~/.config/fastfetch/arch_masterpiece.txt",
+        // "source": "~/.config/fastfetch/cat.txt",
         "color": {
            "1": "cyan",
            "2": "red",
